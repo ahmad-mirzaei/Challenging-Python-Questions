@@ -1,2 +1,6 @@
 General description :
-    
+    We want to solve challenging Python questions together. 
+    Maybe on the way to the challenge, the answer to some questions requires searching on the Internet, 
+    which makes progress and learning. So hello to Python...
+
+

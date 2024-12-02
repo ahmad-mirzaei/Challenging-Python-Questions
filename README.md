@@ -10,13 +10,13 @@ which makes progress and learning. So hello to Python...</p>
 
 ---
 ### history : 
-1. Python language was born in what year and by whom? In 1991 and by Guido van Rossum.
+1. Python language was born in what year and by whom? In 1991 and by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
 
-### applications of Python :
+### applications of python :
 2. What are the uses of Python?
     Uses of Python : Big Data, Mobile App, Data Science, Web Scripting, Web Development, Machin Learning, Game Development, Image processing, Desktop programming, Hacking and Security, Artificial Intelligence, and ...
 
-### syntax : 
+### print : 
 3. What is the output of the following code? and why?
 ```python
     print("python"); print("programmer")

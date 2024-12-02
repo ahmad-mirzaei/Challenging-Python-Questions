@@ -4,3 +4,33 @@ General description :
     which makes progress and learning. So hello to Python...
 
 
+history : 
+    1. Python language was born in what year and by whom? 1. Python language was born in what year and by whom? In 1991 and by Guido van Rossum.
+
+Applications of Python :
+    2. What are the uses of Python?
+    Uses of Python : 
+        Big Data
+        Mobile App
+        Data Science
+        Web Scripting
+        Web Development
+        Machin Learning
+        Game Development
+        Image processing
+        Desktop programming
+        Hacking and Security
+        Artificial Intelligence
+        and ...
+
+syntax : 
+    3. What is the output of the following code? and why?
+        print("python"); print("programmer")
+        # output :
+            # python
+            # programmer
+
+    When we put a semicolon at the end of a command and then write the next command, 
+    although it is in one line, Python calculates it as two separate commands and we do not encounter a syntax error.
+
+

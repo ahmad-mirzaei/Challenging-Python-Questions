@@ -5,7 +5,8 @@
 3. output :<br />
 python <br />
 programmer
-<p>When we put a semicolon at the end of a command and then write the next command, although it is in one line, Python calculates it as two separate commands, and we do not encounter a syntax error.</p>
+### Explanation :
+    When we put a semicolon at the end of a command and then write the next command, although it is in one line, Python calculates it as two separate commands, and we do not encounter a syntax error.
 
 ---
 4. Multiplication --> *
@@ -33,11 +34,13 @@ Here is the table of operator precedence in Python, listed from the highest to t
 | 15         | `is`, `is not`, `in`, `not in` | Identity and membership operators                |
 | 16         | `lambda`                | Lambda (anonymous function)                        |
 
-This table shows the operator precedence in Python, with the highest precedence at the top. Operators with higher precedence are evaluated first, unless parentheses are used to alter the order of evaluation.
+<p>This table shows the operator precedence in Python, with the highest precedence at the top. Operators with higher precedence are evaluated first, unless parentheses are used to alter the order of evaluation.</p>
+
 ---
+
 7. `int`, `str`, `list`, `dict`
 
-### Explanation:
+### Explanation of :
 In Python, the main data types include:
 - `int`: Integer
 - `float`: Floating-point number
@@ -49,3 +52,21 @@ In Python, the main data types include:
 - `bool`: Boolean (True or False)
 
 There are no data types called `char`, `double`, `array`, or `numeric` in Python.
+---
+8. b) `a is equal to 0.5, and b is equal to 0.`.<br />
+### Explanation :<br />
+    1 / 2 (regular division) results in a float, which is 0.5.<br />
+    1 // 2 (floor division) results in an integer, which is 0.
+
+9. ` y = 3` <br />
+### Explanation :
+    The int() function in Python truncates the decimal part of a float, keeping only the integer part. Therefore, 3.14159 becomes 3.</p>
+
+10. c) `106`
+
+### Explanation :
+    x ** 2: The square of 10, which equals 100.
+    y * 5: The product of 3 and 5, which equals 15.
+    x // y: The integer division of 10 by 3, which equals 3 (since the fractional part is discarded).
+---
+

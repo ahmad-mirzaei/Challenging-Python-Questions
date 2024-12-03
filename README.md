@@ -43,4 +43,32 @@ ___
 - float, double, object, text
 - numeric, function, list, tuple
 ___
-8. 
+### Integer - Float - Complex Types:
+8. Which of the following expressions is correct?
+```python
+a = 1 / 2
+b = 1 // 2
+
+# a) Both a and b are equal to 0.
+# b) a is equal to 0.5, and b is equal to 0.
+# c) a is equal to 0, and b is equal to 0.5.
+# d) Both a and b are equal to 1.
+```
+9. What is the result of executing the following code?
+```python
+x = 3.14159
+y = int(x)
+```
+---
+10. What is the result of executing the following expression in Python?
+```python
+x = 10
+y = 3
+z = x ** 2 + y * 5 - x // y
+
+# a) 105
+# b) 112
+# c) 106
+# d) 110
+```
+

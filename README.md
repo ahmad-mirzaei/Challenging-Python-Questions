@@ -43,7 +43,7 @@ ___
 - float, double, object, text
 - numeric, function, list, tuple
 ___
-### Integer - Float - Complex Types:
+### Integer - Float Types:
 8. Which of the following expressions is correct?
 ```python
 a = 1 / 2

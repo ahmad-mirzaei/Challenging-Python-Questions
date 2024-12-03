@@ -1,4 +1,5 @@
-***`1.`*** In 1991 and by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
+***`1.`*** Python was created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in **1989**. 
+He began developing it as a successor to the ABC programming language, aiming to create a language that was easy to read and write, with a focus on simplicity and readability. Python's first public release, **Python 0.9.0**, was made in **1991**.
 ---
 ***`2.`*** Uses of Python: Big Data, Mobile Apps, Data Science, Web Scripting, Web Development, Machine Learning, Game Development, Image Processing, Desktop Programming, Hacking and Security, Artificial Intelligence, and ...
 ---

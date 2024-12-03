@@ -10,41 +10,41 @@ which makes progress and learning. So hello to Python...</p>
 
 ---
 ### history : 
-1. Python language was born in what year and by whom? 
+***`1.`*** Python language was born in what year and by whom? 
 ---
 ### applications of Python:
-2. What are the uses of Python?
+***`2.`*** What are the uses of Python?
 ---
 ### print : 
-3. What is the output of the following code? and why?
+***`3.`*** What is the output of the following code? and why?
 ```python
 print("python"); print("programmer")
 ```
 ---
 ### Operator Precedence :
-4. Which of the following operators has higher precedence?
+***`4.`*** Which of the following operators has higher precedence?
 ```python
 x = 6 + 9 * 2
 ```
-5. Which expression will give the correct result?
+***`5.`*** Which expression will give the correct result?
 ```python
 result = 7 + 4 * 3 ** 2
 ```
-6. Which operators have higher precedence over the others?
+***`6.`*** Which operators have higher precedence over the others?
 ```python
 x = (5 + 2) * 3 / 8
 ```
 ___
 ### Data Types :
 
-7. Which of the following are valid data types in Python?
+***`7.`*** Which of the following are valid data types in Python?
 - int, str, list, dict
 - boolean, array, set, char
 - float, double, object, text
 - numeric, function, list, tuple
 ___
 ### Integer - Float Types:
-8. Which of the following expressions is correct?
+***`8.`*** Which of the following expressions is correct?
 ```python
 a = 1 / 2
 b = 1 // 2
@@ -54,13 +54,13 @@ b = 1 // 2
 # c) a is equal to 0, and b is equal to 0.5.
 # d) Both a and b are equal to 1.
 ```
-9. What is the result of executing the following code?
+***`9.`*** What is the result of executing the following code?
 ```python
 x = 3.14159
 y = int(x)
 ```
 ---
-10. What is the result of executing the following expression in Python?
+***`10.`*** What is the result of executing the following expression in Python?
 ```python
 x = 10
 y = 3

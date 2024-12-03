@@ -35,6 +35,8 @@ result = 7 + 4 * 3 ** 2
 x = (5 + 2) * 3 / 8
 ```
 ___
+### Data Types :
+
 7. Which of the following are valid data types in Python?
 - int, str, list, dict
 - boolean, array, set, char

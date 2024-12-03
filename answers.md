@@ -35,4 +35,17 @@ Here is the table of operator precedence in Python, listed from the highest to t
 
 This table shows the operator precedence in Python, with the highest precedence at the top. Operators with higher precedence are evaluated first, unless parentheses are used to alter the order of evaluation.
 ---
+7. `int`, `str`, `list`, `dict`
 
+### Explanation:
+In Python, the main data types include:
+- `int`: Integer
+- `float`: Floating-point number
+- `str`: String (text)
+- `list`: List
+- `tuple`: Tuple
+- `dict`: Dictionary
+- `set`: Set
+- `bool`: Boolean (True or False)
+
+There are no data types called `char`, `double`, `array`, or `numeric` in Python.

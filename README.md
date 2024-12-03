@@ -34,3 +34,11 @@ result = 7 + 4 * 3 ** 2
 ```python
 x = (5 + 2) * 3 / 8
 ```
+___
+7. Which of the following are valid data types in Python?
+- int, str, list, dict
+- boolean, array, set, char
+- float, double, object, text
+- numeric, function, list, tuple
+___
+8. 

@@ -10,12 +10,13 @@ which makes progress and learning. So hello to Python...</p>
 
 ---
 ### History : 
-
 ***`1.`*** python language was born in what year and by whom?
+
 ---
-### Applications of Python:
+### Applications of Python :
 
 ***`2.`*** What are the uses of Python?
+
 ---
 ### Print : 
 

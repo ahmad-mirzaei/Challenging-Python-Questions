@@ -93,3 +93,7 @@ text = "python programming language"
 ```python
 text = "python,php,javascript,django,laravel,react"
 ```
+***`15.`*** In the string below, **replace** the word `Python` with the word `nothing`.
+```python
+text = "I love nothing"
+```

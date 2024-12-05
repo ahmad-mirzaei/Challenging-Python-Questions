@@ -96,4 +96,10 @@ text = "python,php,javascript,django, laravel,react"
 split_text = text.split(",")
 print(split_text) 
 ``` 
+***`15.`***
+```python
+text = "I love nothing"
+modified_text = text.replace("nothing", "python")
+print(modified_text)
+```
 

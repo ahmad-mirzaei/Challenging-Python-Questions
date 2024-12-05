@@ -101,4 +101,9 @@ text = "I love nothing"
 ```python
 words = ["Python", "is", "very", "lovely"]
 ```
----
+***`17.`*** Write a program that converts the following string to uppercase.
+```python
+text = "challenging python questions together"
+uppercase_text = text.upper()
+print(uppercase_text)
+```

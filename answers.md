@@ -108,4 +108,9 @@ words = ["Python", "is", "very", "lovely"]
 join_words = " ".join(words) 
 print(join_words)
 ```
----
+***`17.`***
+```python
+text = "challenging python questions together"
+uppercase_text = text.upper()
+print(uppercase_text)
+```

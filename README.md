@@ -105,3 +105,7 @@ words = ["Python", "is", "very", "lovely"]
 ```python
 text = "challenging python questions together"
 ```
+***`18.`*** Write a program that determines the number of times the word banana occurs.
+```python
+text = "banana applebanana apple apple banana apple banana bananaapple"
+```

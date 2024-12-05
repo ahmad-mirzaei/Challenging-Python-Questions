@@ -114,3 +114,9 @@ text = "challenging python questions together"
 uppercase_text = text.upper()
 print(uppercase_text)
 ```
+***`18.`***
+```python
+text = "banana applebanana apple apple banana apple banana bananaapple"
+text_count = text.count("banana")
+print(text_count)
+```

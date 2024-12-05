@@ -97,3 +97,8 @@ text = "python,php,javascript,django,laravel,react"
 ```python
 text = "I love nothing"
 ```
+***`16.`*** Convert the words in the list below into a string. You can use the default " ".join() function.
+```python
+words = ["Python", "is", "very", "lovely"]
+```
+---

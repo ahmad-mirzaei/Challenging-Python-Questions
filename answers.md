@@ -102,4 +102,10 @@ text = "I love nothing"
 modified_text = text.replace("nothing", "python")
 print(modified_text)
 ```
-
+***`16.`*** 
+```python
+words = ["Python", "is", "very", "lovely"] 
+join_words = " ".join(words) 
+print(join_words)
+```
+---

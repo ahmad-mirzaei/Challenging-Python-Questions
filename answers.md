@@ -84,3 +84,9 @@ text = "programming"
 reversed_text = text[::-1]
 print(reversed_text)
 ```
+***`13.`*** 
+```python
+text = "python programming language"
+result = "lang" in text 
+print(result)  
+```

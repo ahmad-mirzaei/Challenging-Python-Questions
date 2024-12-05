@@ -85,4 +85,7 @@ text = "Python programming"
 ```python
 text = "programming"
 ```
-
+***`13.`*** Write a program that checks for the presence of lang in the following string.
+```python
+text = "python programming language"
+```

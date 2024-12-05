@@ -89,3 +89,7 @@ text = "programming"
 ```python
 text = "python programming language"
 ```
+***`14.`*** Write a program that separates the given string based on commas.
+```python
+text = "python,php,javascript,django, laravel,react"
+```

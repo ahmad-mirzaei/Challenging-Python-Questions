@@ -90,3 +90,10 @@ text = "python programming language"
 result = "lang" in text 
 print(result)  
 ```
+***`14.`***
+```python
+text = "python,php,javascript,django, laravel,react"
+split_text = text.split(",")
+print(split_text) 
+``` 
+

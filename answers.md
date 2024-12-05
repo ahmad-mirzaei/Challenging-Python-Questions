@@ -72,4 +72,10 @@ y * 5: The product of 3 and 5, which equals 15.<br />
 x // y: The integer division of 10 by 3, which equals 3 (since the fractional part is discarded).
 
 ---
-
+***`11.`*** 
+```python
+text = "Python Programming"
+character = text[5]
+print(character)
+```
+---

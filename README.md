@@ -75,4 +75,12 @@ z = x ** 2 + y * 5 - x // y
 # c) 106
 # d) 110
 ```
+---
+### String :
+
+***`11.`*** Write a program that extracts the fifth character from the given string.
+```python
+text = "Python programming"
+```
+---
 

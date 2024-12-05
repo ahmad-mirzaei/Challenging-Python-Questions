@@ -82,5 +82,7 @@ z = x ** 2 + y * 5 - x // y
 ```python
 text = "Python programming"
 ```
----
-
+***`12.`*** Write a program that checks the existence of the string "lang" in the text variable.
+```python
+text = "programming language"
+```

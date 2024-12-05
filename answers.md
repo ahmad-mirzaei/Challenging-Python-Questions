@@ -78,4 +78,10 @@ text = "Python Programming"
 character = text[5]
 print(character)
 ```
----
+***`12.`***
+```python
+text = "Programming language"
+result = "lang" in text
+print(result)
+
+```

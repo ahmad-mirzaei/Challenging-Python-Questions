@@ -85,3 +85,11 @@ result = "lang" in text
 print(result)
 
 ```
+
+***`13.`*** 
+```python
+text = "im a programmer"
+reversed_text = text[::-1]
+print(reversed_text)
+
+```

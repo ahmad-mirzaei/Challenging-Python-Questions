@@ -77,7 +77,6 @@ z = x ** 2 + y * 5 - x // y
 ```
 ---
 ### String :
-
 ***`11.`*** Write a program that extracts the fifth character from the given string.
 ```python
 text = "Python programming"
@@ -86,3 +85,9 @@ text = "Python programming"
 ```python
 text = "programming language"
 ```
+***`13.`*** Write a program that prints the following string in reverse order.
+```python
+text = "im a programmer"
+```
+
+---

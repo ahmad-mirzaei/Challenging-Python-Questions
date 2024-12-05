@@ -78,4 +78,9 @@ text = "Python Programming"
 character = text[5]
 print(character)
 ```
----
+***`12.`*** 
+```python
+text = "programming"
+reversed_text = text[::-1]
+print(reversed_text)
+```

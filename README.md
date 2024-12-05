@@ -81,5 +81,8 @@ z = x ** 2 + y * 5 - x // y
 ```python
 text = "Python programming"
 ```
----
+***`12.`*** Write a program that prints the following string in reverse order.
+```python
+text = "programming"
+```
 

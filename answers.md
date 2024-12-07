@@ -120,3 +120,8 @@ text = "banana applebanana apple apple banana apple banana bananaapple"
 text_count = text.count("banana")
 print(text_count)
 ```
+***`18.`***
+```python
+ascii_code = ord('P')
+print(ascii_code)
+```

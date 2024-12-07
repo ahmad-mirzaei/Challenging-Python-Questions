@@ -134,3 +134,9 @@ number = 1234567890
 ```python
 my_list = [10, 20, 30, 40, 50]
 ```
+***`24.`*** Get the length of the following lists using the len() function.
+```python
+num_list = [10, 20, 30, 40, 50]
+str_list_1 = ["python programming language is the best"]
+str_list_2 = ["python", "programming", "language", "is", "the best"]
+```

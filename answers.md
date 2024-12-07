@@ -239,3 +239,13 @@ last_item = my_list[-1]
 print(f"First item: {first_item}")
 print(f"Last item: {last_item}")
 ```
+***`24.`***
+```python
+num_list = [10, 20, 30, 40, 50]
+str_list_1 = ["python programming language is the best"]
+str_list_2 = ["python", "programming", "language", "is", "the best"]
+
+print(len(num_list))
+print(len(str_list_1))
+print(len(str_list_2))
+``` 

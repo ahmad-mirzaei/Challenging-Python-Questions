@@ -126,3 +126,11 @@ age = 36
 ```python
 number = 1234567890
 ```
+---
+
+### List : 
+
+***`23.`*** Show how to access the first and last elements of the list.
+```python
+my_list = [10, 20, 30, 40, 50]
+```

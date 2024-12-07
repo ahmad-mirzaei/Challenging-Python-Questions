@@ -222,3 +222,14 @@ print(f"My name is {name} and I am {age} years old.")
 number = 1234567890
 print(f"number : {number:,}")
 ```
+---
+***`23.`*** 
+```python
+my_list = [10, 20, 30, 40, 50]
+
+first_item = my_list[0]
+last_item = my_list[-1]
+
+print(f"First item: {first_item}")
+print(f"Last item: {last_item}")
+```

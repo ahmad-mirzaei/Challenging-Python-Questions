@@ -249,7 +249,7 @@ print(len(num_list))
 print(len(str_list_1))
 print(len(str_list_2))
 ```
-***`24.`***
+***`25.`***
 ```python
 nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
 

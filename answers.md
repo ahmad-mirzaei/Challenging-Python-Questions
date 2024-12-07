@@ -211,3 +211,9 @@ print(ch)
 | .             | 46             |
 | /             | 47             |
 
+***`21.`***
+```python
+name = "Ahmad"
+age = 36
+print(f"My name is {name} and I am {age} years old.")
+```

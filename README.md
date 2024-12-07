@@ -117,3 +117,8 @@ ord()
 ```python
 chr()
 ```
+***`21.`*** How can you combine the values of different variables into a single string using **f-strings** in Python? For example, display your name and age in a sentence. Assume your name is "َAhmad" and your age is 36.
+```python
+name = "Ahmad"
+age = 36
+```

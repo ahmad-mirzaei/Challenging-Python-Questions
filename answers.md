@@ -223,6 +223,9 @@ number = 1234567890
 print(f"number : {number:,}")
 ```
 ---
+
+### List : 
+
 ***`23.`*** 
 ```python
 my_list = [10, 20, 30, 40, 50]

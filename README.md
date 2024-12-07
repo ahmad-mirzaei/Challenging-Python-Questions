@@ -122,3 +122,7 @@ chr()
 name = "Ahmad"
 age = 36
 ```
+***`22.`*** How can you format a large number to display with commas separating every three digits using f-strings in Python? For example, format the number 1234567890 to display as 1,234,567,890 .
+```python
+number = 1234567890
+```

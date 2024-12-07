@@ -109,5 +109,11 @@ text = "challenging python questions together"
 ```python
 text = "banana applebanana apple apple banana apple banana bananaapple"
 ```
-***`19.`*** Use this function to find the ASCII code of the character 'P'. --> ord()
-
+***`19.`*** Use this function to find the ASCII code of the character 'P'.
+```python
+ord()
+```
+***`20.`***  Use this function to find the character corresponding to the ASCII code 89.
+```python
+chr()
+```

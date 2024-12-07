@@ -224,7 +224,7 @@ print(f"number : {number:,}")
 ```
 ---
 
-### List : 
+### `List` : 
 
 ***`23.`*** 
 ```python

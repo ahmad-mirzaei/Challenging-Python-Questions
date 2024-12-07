@@ -140,3 +140,10 @@ num_list = [10, 20, 30, 40, 50]
 str_list_1 = ["python programming language is the best"]
 str_list_2 = ["python", "programming", "language", "is", "the best"]
 ```
+***`25.`*** <br />
+a) How can you access the second element of the first list (the number 2)?<br />
+b) How can you access the first element of the second list (the string "apple")?<br />
+c) How can you access the last element of the third list (the value False)?
+```python
+nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
+```

@@ -151,3 +151,7 @@ nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
 ```python
 numbers = [2, 4, 6]
 ```
+***`27.`*** Use the append() function to add the name "Ahmad" to the end of this list. Then, print the final list.
+```python
+names = ["Ali", "Sara", "Reza"]
+```

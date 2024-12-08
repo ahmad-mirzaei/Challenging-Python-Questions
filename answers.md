@@ -269,3 +269,9 @@ numbers = [2, 4, 6]
 numbers.append(8)
 print(numbers)
 ```
+***`27.`*** 
+```python
+names = ["Ali", "Sara", "Reza"]
+names.append("Ahmad")
+print(names)
+```

@@ -168,3 +168,10 @@ b = []
 ```python
 words = ['a', 'b', 'd']
 ```
+***`31.`***
+- Use the insert() function to insert the number `20` in the appropriate place in the list;
+- Then enter the number `30` at the end of the list using insert() and len();
+- Then add the next number with the append() function.
+```python
+numbers = [5, 10, 15, 25]
+```

@@ -299,3 +299,12 @@ words = ['a', 'b', 'd']
 words.insert(2, 'c')
 print(words)
 ```
+***`31.`***
+```python
+numbers = [5, 10, 15, 25]
+
+numbers.insert(3, 20) 
+numbers.insert(len(numbers), 30)
+numbers.append(35)
+print(numbers)
+```

@@ -266,6 +266,6 @@ print(f"Last item from the third list: {last_item_third_list}")
 ***`26.`*** 
 ```python
 numbers = [2, 4, 6]
-append_number = numbers.append(8)
+numbers.append(8)
 print(numbers)
 ```

@@ -147,3 +147,7 @@ c) How can you access the last element of the third list (the value False)?
 ```python
 nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
 ```
+***`26.`*** Use the append() function to add the number 8 to this list. Print the result.
+```python
+numbers = [2, 4, 6]
+```

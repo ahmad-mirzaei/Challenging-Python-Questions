@@ -249,7 +249,7 @@ print(len(num_list))
 print(len(str_list_1))
 print(len(str_list_2))
 ```
-***`24.`***
+***`25.`***
 ```python
 nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
 
@@ -262,4 +262,10 @@ last_item_third_list = nested_list[2][-1]
 print(f"Second item from the first list: {second_item_first_list}")
 print(f"First item from the second list: {first_item_second_list}")
 print(f"Last item from the third list: {last_item_third_list}")
+```
+***`26.`*** 
+```python
+numbers = [2, 4, 6]
+append_number = numbers.append(8)
+print(numbers)
 ```

@@ -308,11 +308,21 @@ numbers.insert(len(numbers), 30)
 numbers.append(35)
 print(numbers)
 ```
-***`31.`***
+***`32.`***
 ```python
 a = [0, 1, 2, 3, 4]
 b = [5, 6, 7, 8, 9]
 
 c = a + b
 print(c)
+```
+***`33.`***
+```python
+a = [0, 1, 2, 3]
+b = [4, 5, 6, 7, 8]
+c = [9, 10, 11, 12, 13, 14]
+
+d = a + b + c
+sum_d = sum(d)
+print(sum_d)
 ```

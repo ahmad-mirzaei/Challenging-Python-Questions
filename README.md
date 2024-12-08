@@ -180,3 +180,9 @@ numbers = [5, 10, 15, 25]
 a = [0, 1, 2, 3, 4]
 b = [5, 6, 7, 8, 9]
 ```
+***`33.`*** Combine the following `3` lists and then get the sum of the final list with the `sum()` function.
+```python
+a = [0, 1, 2, 3]
+b = [4, 5, 6, 7, 8]
+c = [9, 10, 11, 12, 13, 14]
+```

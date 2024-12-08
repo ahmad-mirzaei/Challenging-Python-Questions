@@ -293,3 +293,9 @@ b.append(popped_element)
 print(a)
 print(b)
 ```
+***`30.`***
+```python
+words = ['a', 'b', 'd']
+words.insert(2, 'c')
+print(words)
+```

@@ -155,12 +155,16 @@ numbers = [2, 4, 6]
 ```python
 names = ["Ali", "Sara", "Reza"]
 ```
-***`28.`*** Use the remove function to remove the number 3 from this list. Print the final list.
+***`28.`*** Use the remove() function to remove the number 3 from this list. Print the final list.
 ```python
 numbers = [1, 2, 3, 4, 5]
 ```
-***`29.`*** Write a program that removes the last number from list a using pop function and adds it to list b using append function.
+***`29.`*** Write a program that removes the last number from list a using pop() function and adds it to list b using append() function.
 ```python
 a = [10, 20, 30, 40, 50, 60]
 b = []
+```
+***`30.`*** Insert the letter c into the second index of the list using the insert() function.
+```python
+words = ['a', 'b', 'd']
 ```

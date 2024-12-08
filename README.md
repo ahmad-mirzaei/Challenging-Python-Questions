@@ -97,7 +97,7 @@ text = "python,php,javascript,django,laravel,react"
 ```python
 text = "I love nothing"
 ```
-***`16.`*** Convert the words in the list below into a string. You can use the default " ".join() function.
+***`16.`*** Convert the words in the list below into a string. You can use the default `" ".join()` function.
 ```python
 words = ["Python", "is", "very", "lovely"]
 ```
@@ -105,24 +105,24 @@ words = ["Python", "is", "very", "lovely"]
 ```python
 text = "challenging python questions together"
 ```
-***`18.`*** Write a program that determines the number of times the word banana occurs.
+***`18.`*** Write a program that determines the number of times the word `banana` occurs.
 ```python
 text = "banana applebanana apple apple banana apple banana bananaapple"
 ```
-***`19.`*** Use this function to find the ASCII code of the character 'P'.
+***`19.`*** Use this function to find the `ASCII` code of the character `'P'`.
 ```python
 ord()
 ```
-***`20.`***  Use this function to find the character corresponding to the ASCII code 89.
+***`20.`***  Use this function to find the character corresponding to the `ASCII` code `89`.
 ```python
 chr()
 ```
-***`21.`*** How can you combine the values of different variables into a single string using **f-strings** in Python? For example, display your name and age in a sentence. Assume your name is "َAhmad" and your age is 36.
+***`21.`*** How can you combine the values of different variables into a single string using **f-strings** in Python? For example, display your name and age in a sentence. Assume your name is `"َAhmad"` and your age is 36.
 ```python
 name = "Ahmad"
 age = 36
 ```
-***`22.`*** How can you format a large number to display with commas separating every three digits using f-strings in Python? For example, format the number 1234567890 to display as 1,234,567,890 .
+***`22.`*** How can you format a large number to display with commas separating every three digits using `f-strings` in Python? For example, format the number `1234567890`to display as `1,234,567,890` .
 ```python
 number = 1234567890
 ```
@@ -134,44 +134,49 @@ number = 1234567890
 ```python
 my_list = [10, 20, 30, 40, 50]
 ```
-***`24.`*** Get the length of the following lists using the len() function.
+***`24.`*** Get the length of the following lists using the `len()` function.
 ```python
 num_list = [10, 20, 30, 40, 50]
 str_list_1 = ["python programming language is the best"]
 str_list_2 = ["python", "programming", "language", "is", "the best"]
 ```
 ***`25.`*** <br />
-a) How can you access the second element of the first list (the number 2)?<br />
-b) How can you access the first element of the second list (the string "apple")?<br />
-c) How can you access the last element of the third list (the value False)?
+a) How can you access the second element of the first list `(the number 2)`?<br />
+b) How can you access the first element of the second list `(the string "apple")`?<br />
+c) How can you access the last element of the third list `(the value False)`?
 ```python
 nested_list = [[1, 2, 3], ["python", "django", "django rest"], [True, False]]
 ```
-***`26.`*** Use the append() function to add the number 8 to this list. Print the result.
+***`26.`*** Use the `append()` function to add the number `8` to this list. Print the result.
 ```python
 numbers = [2, 4, 6]
 ```
-***`27.`*** Use the append() function to add the name "Ahmad" to the end of this list. Then, print the final list.
+***`27.`*** Use the `append()` function to add the name `"Ahmad"` to the end of this list. Then, print the final list.
 ```python
 names = ["Ali", "Sara", "Reza"]
 ```
-***`28.`*** Use the remove() function to remove the number 3 from this list. Print the final list.
+***`28.`*** Use the `remove()` function to remove the number `3` from this list. Print the final list.
 ```python
 numbers = [1, 2, 3, 4, 5]
 ```
-***`29.`*** Write a program that removes the last number from list a using pop() function and adds it to list b using append() function.
+***`29.`*** Write a program that removes the last number from list a using `pop()` function and adds it to list b using `append()` function.
 ```python
 a = [10, 20, 30, 40, 50, 60]
 b = []
 ```
-***`30.`*** Insert the letter c into the second index of the list using the insert() function.
+***`30.`*** Insert the letter c into the second index of the list using the `insert()` function.
 ```python
 words = ['a', 'b', 'd']
 ```
 ***`31.`***
-- Use the insert() function to insert the number `20` in the appropriate place in the list;
-- Then enter the number `30` at the end of the list using insert() and len();
-- Then add the next number with the append() function.
+- Use the `insert()` function to insert the number `20` in the appropriate place in the list;
+- Then enter the number `30` at the end of the list using `insert()` and `len()`;
+- Then add the next number with the `append()` function.
 ```python
 numbers = [5, 10, 15, 25]
+```
+***`32.`*** Combine the following two lists and then display them in the output.
+```python
+a = [0, 1, 2, 3, 4]
+b = [5, 6, 7, 8, 9]
 ```

@@ -281,3 +281,15 @@ numbers = [1, 2, 3, 4, 5]
 numbers.remove(5)
 print(numbers)
 ```
+***`29.`***
+```python
+a = [10, 20, 30, 40, 50, 60]
+b = []
+# step 1
+popped_element = a.pop()  
+b.append(popped_element)
+# step 2
+# b.append(a.pop())
+print(a)
+print(b)
+```

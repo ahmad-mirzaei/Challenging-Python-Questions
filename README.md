@@ -159,4 +159,8 @@ names = ["Ali", "Sara", "Reza"]
 ```python
 numbers = [1, 2, 3, 4, 5]
 ```
-
+***`29.`*** Write a program that removes the last number from list a using pop function and adds it to list b using append function.
+```python
+a = [10, 20, 30, 40, 50, 60]
+b = []
+```

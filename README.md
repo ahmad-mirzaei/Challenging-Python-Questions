@@ -225,3 +225,7 @@ my_dict = {"name": "Ahmad", "age": 36}
 ```python
 my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 ```
+***`40.`*** Use the copy() method to create a copy of the dictionary and print it.
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+```

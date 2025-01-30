@@ -209,3 +209,7 @@ person = {
     }
 }
 ```
+***`36.`*** Use the clear() method to remove all elements from a dictionary.
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+```

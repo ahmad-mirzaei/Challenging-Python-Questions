@@ -379,3 +379,10 @@ my_dict.setdefault("city", "Shiraz")
 
 print(my_dict)
 ```
+***`39.`***
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+keys = my_dict.keys()
+
+print(keys)
+```

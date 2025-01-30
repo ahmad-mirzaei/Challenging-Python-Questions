@@ -186,3 +186,12 @@ a = [0, 1, 2, 3]
 b = [4, 5, 6, 7, 8]
 c = [9, 10, 11, 12, 13, 14]
 ```
+---
+
+## `Dictionary` :
+
+***`34.`*** Combine dictionary 1 and 2 together.
+```python
+dict1 = {"name": "Ali", "age": 25}
+dict2 = {"city": "Tehran", "age": 26}
+```

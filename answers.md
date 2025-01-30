@@ -133,6 +133,7 @@ print(ascii_code)
 ch = chr(89)
 print(ch)
 ```
+
 | **Character** | **ASCII Code** |
 |---------------|----------------|
 | A             | 65             |

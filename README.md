@@ -221,3 +221,7 @@ my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 ```python
 my_dict = {"name": "Ahmad", "age": 36}
 ```
+***`39.`*** Use the keys() method to get and print all the keys in the dictionary.
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+```

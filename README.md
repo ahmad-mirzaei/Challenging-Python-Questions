@@ -213,3 +213,7 @@ person = {
 ```python
 my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 ```
+***`37.`*** Use the popitem() method to remove and print the last key-value pair from the dictionary.
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+```

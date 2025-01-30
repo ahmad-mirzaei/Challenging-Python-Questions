@@ -386,3 +386,10 @@ keys = my_dict.keys()
 
 print(keys)
 ```
+***`40.`***
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+copy_dict = my_dict.copy()
+
+print(copy_dict)
+```

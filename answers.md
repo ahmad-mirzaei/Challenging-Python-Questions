@@ -338,3 +338,24 @@ dict2 = {"city": "Tehran", "age": 26}
 dict1.update(dict2)
 print(dict1)
 ```
+***`35.`***
+```python
+
+person = {
+    "name": "Ali",
+    "contact": {
+        "email": "ali@example.com",
+        "phone": "123456789"
+    },
+    "address": {
+        "city": "Tehran",
+        "postal_code": "12345"
+    }
+}
+
+email = person["contact"]["email"]
+city = person["address"]["city"]
+
+print(f"email : {email}")
+print(f"city : {city}")
+```

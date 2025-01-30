@@ -359,3 +359,9 @@ city = person["address"]["city"]
 print(f"email : {email}")
 print(f"city : {city}")
 ```
+***`36.`***
+```python
+my_dict = {"name": "Ali", "age": 25, "city": "Tehran"}
+my_dict.clear()
+print(my_dict) # output -> {} 
+```

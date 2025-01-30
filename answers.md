@@ -327,3 +327,14 @@ d = a + b + c
 sum_d = sum(d)
 print(sum_d)
 ```
+---
+
+## `Dictionary` :
+***`34.`*** 
+```python
+dict1 = {"name": "Ali", "age": 25}
+dict2 = {"city": "Tehran", "age": 26}
+
+dict1.update(dict2)
+print(dict1)
+```

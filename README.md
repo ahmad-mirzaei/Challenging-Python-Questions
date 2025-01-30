@@ -195,4 +195,17 @@ c = [9, 10, 11, 12, 13, 14]
 dict1 = {"name": "Ali", "age": 25}
 dict2 = {"city": "Tehran", "age": 26}
 ```
-
+***`35.`*** Retrieve and print the email and city from the nested dictionary below.
+```python
+person = {
+    "name": "Ali",
+    "contact": {
+        "email": "ali@example.com",
+        "phone": "123456789"
+    },
+    "address": {
+        "city": "Tehran",
+        "postal_code": "12345"
+    }
+}
+```

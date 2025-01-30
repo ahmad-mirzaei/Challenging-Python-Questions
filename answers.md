@@ -361,7 +361,14 @@ print(f"city : {city}")
 ```
 ***`36.`***
 ```python
-my_dict = {"name": "Ali", "age": 25, "city": "Tehran"}
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 my_dict.clear()
 print(my_dict) # output -> {} 
+```
+***`37.`***
+```python
+my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
+last_item = my_dict.popitem()
+
+print(last_item) # output -> ('city', 'Shiraz')
 ```

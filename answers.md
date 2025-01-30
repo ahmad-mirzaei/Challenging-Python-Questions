@@ -372,7 +372,7 @@ last_item = my_dict.popitem()
 
 print(last_item) # output -> ('city', 'Shiraz')
 ```
-***`37.`***
+***`38.`***
 ```python
 my_dict = {"name": "Ahmad", "age": 36}
 my_dict.setdefault("city", "Shiraz")

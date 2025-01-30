@@ -217,3 +217,7 @@ my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 ```python
 my_dict = {"name": "Ahmad", "age": 36, "city": "Shiraz"}
 ```
+***`38.`*** Use the setdefault() method to add a new key with a default value to the dictionary, if the key does not already exist.
+```python
+my_dict = {"name": "Ahmad", "age": 36}
+```
